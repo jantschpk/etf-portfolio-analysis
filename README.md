@@ -9,6 +9,10 @@ Neben Einzel-ETF-Analysen wird auch ein Beispiel-Portfolio simuliert und bewerte
 - yfinance
 - seaborn
 
+## Ausführen (in Google Colab)
+1. Notebook öffnen [Google Colab Link] (https://colab.research.google.com/drive/1CAORhY5R33hG03s5bJ2kNCJvqB4rlVWL?usp=sharing)
+2. Libraries installieren ('!pip install yfinance pandas numpy matplotlib seaborn')
+
 ## Kennzahlen
 - Annualisierte Renditen
 - Volatilität
