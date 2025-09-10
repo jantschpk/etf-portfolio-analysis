@@ -24,6 +24,6 @@ Neben Einzel-ETF-Analysen wird auch ein Beispiel-Portfolio simuliert und bewerte
 - Vergleich Portfolio vs. Benchmark
 
 ## Beispiel-Output
-![Performance](images/performance.png)
+![Performance](images/performance.PNG)
 ![Korrelation](images/correlation.png)
 ![Portfoliovergleich](imags/portfolio.png)
