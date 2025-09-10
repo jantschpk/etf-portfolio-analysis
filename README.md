@@ -1,4 +1,4 @@
-# ETF- & Portfolio-Analyse (2019-2024)
+# 📈 ETF- & Portfolio-Analyse (2019-2024)
 Dieses Projekt analysiert verschiedene Anlagen (S&P500,DAX, MSCI WORLD). 
 Neben Einzel-ETF-Analysen wird auch ein Beispiel-Portfolio simuliert und bewertet. 
 
