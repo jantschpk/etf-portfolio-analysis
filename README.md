@@ -1,14 +1,14 @@
-# 📈 ETF- & Portfolio-Analyse (2019-2024)
+# ETF- & Portfolio-Analyse (2019-2024)
 Dieses Projekt analysiert verschiedene Anlagen (S&P500,DAX, MSCI WORLD). 
 Neben Einzel-ETF-Analysen wird auch ein Beispiel-Portfolio simuliert und bewertet. 
 
 ## Libraries
 - pandas
 - numpy
-- statsmodels
 - matplotlib
 - yfinance
 - seaborn
+- statsmodels
 
 ## Ausführen (in Google Colab)
 1. Notebook öffnen [Google Colab Link] (https://colab.research.google.com/drive/1CAORhY5R33hG03s5bJ2kNCJvqB4rlVWL?usp=sharing)
