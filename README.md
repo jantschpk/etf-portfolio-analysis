@@ -5,6 +5,7 @@ Neben Einzel-ETF-Analysen wird auch ein Beispiel-Portfolio simuliert und bewerte
 ## Libraries
 - pandas
 - numpy
+- statsmodels
 - matplotlib
 - yfinance
 - seaborn
